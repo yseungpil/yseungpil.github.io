@@ -31,15 +31,15 @@
 # [관련 이미지 & 동영상]
 
 - 이미지  
-  <img src="./img/(https://course.pcu.ac.kr/pluginfile.php/649921/mod_forum/attachment/28273/%EC%9D%B4%EB%AF%B8%EC%A7%80.PNG">
+  <img src="./img/image.jpg">
 - 동영상
-  [![](./img/그림.png)](https://www.youtube.com/watch?v=HoWRPuAyIQA)
+  [![](./img/image3.PNG)]([https://www.youtube.com/watch?v=5xy4n73WOMM](https://www.youtube.com/watch?v=HoWRPuAyIQA))
 
 <br><br>
 
 # [대표 이미지]
 
-![그림](./img/https://hclass.pcu.ac.kr:8888/2022b/project/w02/%EB%8C%80%ED%91%9C%EC%9D%B4%EB%AF%B8%EC%A7%80S/%EC%96%91%EC%8A%B9%ED%95%84.jpg)
+![그림](./img/image2.PNG)
 
 <br><br>
 
