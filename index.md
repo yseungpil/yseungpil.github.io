@@ -33,7 +33,7 @@
 - 이미지  
   <img src="./img/image.jpg">
 - 동영상
-  [![](./img/image3.PNG)]([[https://www.youtube.com/watch?v=5xy4n73WOMM](https://www.youtube.com/watch?v=HoWRPuAyIQA](https://www.youtube.com/watch?v=HoWRPuAyIQA)))
+  [![](./img/image3.PNG)](https://www.youtube.com/watch?v=HoWRPuAyIQA)
 
 <br><br>
 
