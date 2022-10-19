@@ -18,9 +18,9 @@
 #### &nbsp;&nbsp;&nbsp;&nbsp; a. [요구사항(1년)](#6-1-1)
 #### &nbsp;&nbsp;&nbsp;&nbsp; b. [요구사항(6주)](#6-1-2)
 #### &nbsp;&nbsp;&nbsp;&nbsp; c. [시간별 흐름도](#6-2-1)
-#### &nbsp;&nbsp;&nbsp;&nbsp; c. [키보드 이벤트에 대한 흐름도](#6-2)
-#### &nbsp;&nbsp;&nbsp;&nbsp; c. [용어정리](#6-3)
-#### &nbsp;&nbsp;&nbsp;&nbsp; c. [스토리보드](#6-4)
+#### &nbsp;&nbsp;&nbsp;&nbsp; d. [키보드 이벤트에 대한 흐름도](#6-2)
+#### &nbsp;&nbsp;&nbsp;&nbsp; e. [용어정리](#6-3)
+#### &nbsp;&nbsp;&nbsp;&nbsp; f. [스토리보드](#6-4)
 ### 9. [개발작업 일정(6주)](#7)
 
 
