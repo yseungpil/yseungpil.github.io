@@ -221,8 +221,8 @@ UI를 최소화해 화면을 가리는 곳을 최소화
 |:----:|:----:|:----:|
 |17|Greed field|<img src="./img/noname17.png" width="300">|
 |18|Gluttony field|<img src="./img/noname18.png" width="300">|
-|19|Block|<img src="./img/noname19.png" height="150">|
-|20|gate|<img src="./img/noname20.png" height="250">|
+|19|Block|<img src="./img/noname19.png" height="100">|
+|20|gate|<img src="./img/noname20.png" height="200">|
 ## b. 파라미터(속성) 뽑아 보기 <a name='5-2'></a>
 
 1) 오브젝트 이름 : Wisp
