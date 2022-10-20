@@ -227,6 +227,8 @@ UI를 최소화해 화면을 가리는 곳을 최소화
 |19|Block|<img src="./img/noname19.png" height="100">|
 |20|gate|<img src="./img/noname20.png" height="200">|
   
+  <br>
+  
 ## b. 파라미터(속성) 뽑아 보기 <a name='5-2'></a>
 
 1) 오브젝트 이름 : Wisp
