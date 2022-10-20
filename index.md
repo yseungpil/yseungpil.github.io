@@ -220,6 +220,8 @@ UI를 최소화해 화면을 가리는 곳을 최소화
 |15|Wrath field|<img src="./img/noname15.png" height="250">|
 |16|Sloth field|<img src="./img/noname16.png" height="250">|
   
+<br>
+  
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
 |17|Greed field|<img src="./img/noname17.png" width="300">|
@@ -227,7 +229,7 @@ UI를 최소화해 화면을 가리는 곳을 최소화
 |19|Block|<img src="./img/noname19.png" height="100">|
 |20|gate|<img src="./img/noname20.png" height="200">|
   
-  <br>
+<br>
   
 ## b. 파라미터(속성) 뽑아 보기 <a name='5-2'></a>
 
