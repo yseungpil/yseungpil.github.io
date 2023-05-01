@@ -207,7 +207,7 @@ UI를 최소화해 화면을 가리는 곳을 최소화
 |9|shield|<img src="./img/noname09.png" width="300">|
 |10|trap|<img src="./img/noname10.png" width="300">|
 |11|gauge|<img src="./img/noname11.png" height="250">|
-|12|Lust field|<img src="./img/noname12.png" height="250">|
+|12|Lust field|<img src="./img/noname12.PNG" height="250">|
   
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
