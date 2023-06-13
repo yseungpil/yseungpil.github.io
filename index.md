@@ -201,12 +201,17 @@ UI를 최소화해 화면을 가리는 곳을 최소화
 |7|Greed|<img src="./img/noname07.png" height="250">|
 |8|Gluttony|<img src="./img/noname08.png" height="250">|
   
+ <br> 
+  
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
 |9|shield|<img src="./img/noname09.png" width="300">|
 |10|trap|<img src="./img/noname10.png" width="300">|
 |11|Lust field|<img src="./img/noname12.PNG" height="250">|
 |12|Pride field|<img src="./img/noname13.png" width="300">|  
+ 
+ <br> 
+  
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
 |14|Envy field|<img src="./img/snake-_waifu2x_art_noise3_scale.png" width="300">|
