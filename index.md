@@ -205,26 +205,35 @@ UI를 최소화해 화면을 가리는 곳을 최소화
 |:----:|:----:|:----:|
 |9|shield|<img src="./img/noname09.png" width="300">|
 |10|trap|<img src="./img/noname10.png" width="300">|
-|11|gauge|<img src="./img/noname11.png" height="250">|
-|12|Lust field|<img src="./img/noname12.PNG" height="250">|
-  
+|11|Lust field|<img src="./img/noname12.PNG" height="250">|
+|12|Pride field|<img src="./img/noname13.png" width="300">|  
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|13|Pride field|<img src="./img/noname13.png" width="300">|
-|14|Envy field|<img src="./img/noname14.png" width="300">|
+|14|Envy field|<img src="./img/snake-_waifu2x_art_noise3_scale.png" width="300">|
 |15|Wrath field|<img src="./img/noname15.png" height="250">|
-|16|Sloth field|<img src="./img/noname16.png" height="250">|
-  
+|16|Sloth field|<img src="./img/712qzveGfzL._AC_SL1116_.jpg" height="250">|
+|17|Greed field|<img src="./img/다운로드 (5)_waifu2x_photo_noise3_scale_waifu2x_photo_noise3_scale_waifu2x_photo_noise3_scale.png" width="300">|  
 <br>
   
 |연번|오브젝트 이름|오브젝트 이미지|
 |:----:|:----:|:----:|
-|17|Greed field|<img src="./img/noname17.png" width="300">|
-|18|Gluttony field|<img src="./img/noname18.png" width="300">|
-|19|Block|<img src="./img/noname19.png" height="100">|
-|20|gate|<img src="./img/noname20.png" height="200">|
+|18|Gluttony field|<img src="./img/light-shines-door-opening-dark-260nw-1749273434_waifu2x_photo_noise3_scale_waifu2x_photo_noise3_scale.png" width="300">|
+|19|Lust Pawn|<img src="./img/images (3)_preview_rev_1.png" width="300">|
+|20|Pride Pawn|<img src="./img/다운로드_preview_rev_1 (1).png" width="300">|
+|21|Envy Pawn|<img src="./img/images (7)_preview_rev_1_waifu2x_photo_noise3_scale.png" width="300">|
+
   
 <br>
+ 
+|연번|오브젝트 이름|오브젝트 이미지|
+|:----:|:----:|:----:|
+|22|Wrath Pawn|<img src="./img/다운로드 (11)_previeasdasd.png" width="300">|  
+|23|Sloth Pawn|<img src="./img/images (10)_preview_rev_1_waifu2x_photo_noise3_scale_waifu2x_photo_noise3_scale.png" width="300">|
+|24|Greed Pawn|<img src="./img/noname07.png" width="300">|  
+|25|Block|<img src="./img/noname19.png" height="100">|
+|26|gate|<img src="./img/noname20.png" height="200">|
+  
+<br>  
   
 ## b. 파라미터(속성) 뽑아 보기 <a name='5-2'></a>
 
